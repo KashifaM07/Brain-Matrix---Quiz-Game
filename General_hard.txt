@@ -1,0 +1,264 @@
+Find the next number in the series: 3, 11, 27, 59, ?
+A) 103
+B) 91
+C) 123
+D) 119
+C
+RIVER is to BANK as BOOK is to:
+A) PAGE
+B) SHELF
+C) COVER
+D) CHAPTER
+B
+If each letter is replaced by its position in the alphabet and added (A=1, B=2...), what is the sum for the word "MIND"?
+A) 43
+B) 40
+C) 38
+D) 46
+A
+Which 4-digit number when multiplied by 4 gives its digits reversed?
+A) 1098
+B) 2178
+C) 8712
+D) 3276
+B
+Which number completes the pattern: 2, 3, 5, 9, 17, ?
+A) 25
+B) 33
+C) 31
+D) 29
+Correct answer: B
+If x + y = 10 and x2 + y2 = 58, what is xy?
+A) 21
+B) 19
+C) 18
+D) 17
+A
+What is the smaller angle between the hour and minute hands at 3:15?
+A) 7.5
+B) 15
+C) 30
+D) 22.5
+A
+Choose the odd one out based on a hidden property: 121, 144, 169, 196, 218
+A) 121
+B) 144
+C) 196
+D) 218
+D
+A is the mother of B. C is the father of D. B is married to D. How is A related to C?
+A) Mother-in-law
+B) Aunt
+C) Sister
+D) Cannot be determined
+A
+Find the missing number: 1, 4, 27, 256, ? (pattern uses n power n)
+A) 3125
+B) 625
+C) 7776
+D) 16807
+A
+Which is the largest two-digit prime that remains prime when its digits are reversed?
+A) 79
+B) 97
+C) 89
+D) 71
+B
+If the operation o is defined by a o b = a + b + ab, what is 2 o 3?
+A) 11
+B) 12
+C) 10
+D) 9
+A
+For any prime p greater than 3, p2 minus 1 is divisible by:
+A) 8
+B) 12
+C) 24
+D) 16
+C
+Which one of these words is most unlike the others (by meaning)?
+A) Loquacious
+B) Garrulous
+C) Taciturn
+D) Verbose
+C
+If 5 people can build 5 machines in 5 days, how many days will 10 people take to build 10 machines (same rate)?
+A) 10
+B) 5
+C) 2.5
+D) 1
+B
+A 3×3 magic square uses the numbers 1–9 once. The center number must be:
+A) 4
+B) 5
+C) 6
+D) 3
+B
+Which of these numbers is NOT expressible as a sum of two prime numbers (Goldbach-style)? (consider even numbers)
+A) 28
+B) 34
+C) 2
+D) 4
+C
+If the sequence follows the rule "n3 − n", what is the 4th term?
+A) 12
+B) 24
+C) 48
+D) 60
+B
+From the set (1,2,3,4,5,6), how many different 3-number combinations (order doesn’t matter) exist?
+A) 18
+B) 20
+C) 10
+D) 15
+D
+Find the next number in the series: 4, 9, 19, 39, ?
+A) 69
+B) 79
+C) 59
+D) 89
+B
+MOUNTAIN is to PEAK as BOOK is to:
+A) Title
+B) Library
+C) Page
+D) Chapter
+C
+If A=1, B=2… Z=26, find the value of: LOGIC
+A) 56
+B) 52
+C) 50
+D) 60
+B
+Which 4-digit number multiplied by 3 results in its digits reversed?
+A) 1095
+B) 1386
+C) 2178
+D) 2814
+B
+Which number completes the pattern: 1, 2, 6, 24, 120, ?
+A) 720
+B) 540
+C) 600
+D) 840
+A
+If x + y = 14 and x2 + y2 = 116, find xy.
+A) 12
+B) 24
+C) 28
+D) 32
+B
+What is the angle between the hour and minute hands at 2:20?
+A) 40
+B) 30
+C) 50
+D) 36
+D
+Choose the odd one out (perfect squares): 121, 169, 225, 255
+A) 255
+B) 169
+C) 225
+D) 121
+A
+A is the brother of B. B is the mother of C. C is the sister of D. How is A related to D?
+A) Father
+B) Uncle
+C) Cousin
+D) Brother
+B
+Find the missing term: 2, 8, 32, 128, ?
+A) 256
+B) 384
+C) 512
+D) 1024
+C
+Which is the largest 2-digit prime that becomes composite when digits are reversed?
+A) 97
+B) 89
+C) 83
+D) 79
+B 
+If s is defined as a s b = a2 − b, what is 7 s 4?
+A) 45
+B) 38
+C) 29
+D) 25
+D
+For any odd prime p, the expression p2 + p is always divisible by:
+A) 3
+B) 4
+C) 6
+D) 8
+C
+Which word is most unlike the others?
+A) Enigmatic
+B) Cryptic
+C) Obvious
+D) Puzzling
+C
+If 8 workers take 15 days to finish a job, how many days for 12 workers?
+A) 8
+B) 12
+C) 10
+D) 6
+C
+A 4 by 4 magic square using numbers 1 till 16 has a magic constant of:
+A) 32
+B) 40
+C) 34
+D) 30
+C
+Which number cannot be expressed as a sum of two distinct prime numbers?
+A) 28
+B) 16
+C) 10
+D) 4
+D 
+The sequence follows n2 + n. What is the 7th term?
+A) 42
+B) 56
+C) 63
+D) 72
+B 
+From the set (1,2,3,4,5,6,7), how many 3-number combinations exist?
+A) 30
+B) 25
+C) 35
+D) 28
+C
+Which 4-digit seven-segment number becomes a different valid 4-digit number when rotated 180°?
+A) 6891
+B) 1960
+C) 1806
+D) 9061
+D
+Find the next term: 5, 17, 53, 161, ?
+A) 482
+B) 375
+C) 486
+D) 420
+A
+Which expression is always even for any integer n?
+A) n2 + n
+B) n2 + 1
+C) n3 + 3
+D) 3n + 1
+A
+In a code, FOCUS = DPATQ (each letter −2). What is BRAIN coded as?
+A) ZPYLG
+B) ZPYGL
+C) ZPXGK
+D) YOXGL
+B
+Solve for x: 3^(x−1) = 81
+A) 4
+B) 5
+C) 3
+D) 6
+A 
+A rectangle has perimeter 50 and area 96. What is its length?
+A) 8
+B) 10
+C) 12
+D) 14
+C

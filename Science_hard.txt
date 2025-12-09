@@ -1,0 +1,270 @@
+Which of the following increases the Km of an enzyme without affecting Vmax?
+A. Non-competitive inhibitor
+B. Competitive inhibitor
+C. Uncompetitive inhibitor
+D. Irreversible inhibitor
+B
+For a particle in a box, the energy levels are proportional to?
+A. n
+B. n2
+C. sqrt(n)
+D. 1/n
+B
+In SN1 reactions, the rate depends primarily on?
+A. Nucleophile concentration
+B. Substrate concentration
+C. Solvent viscosity
+D. Leaving group strength only
+B
+Which DNA polymerase has 5 to 3 polymerase activity but no exonuclease activity?
+A. DNA Pol I
+B. DNA Pol II
+C. DNA Pol III
+D. Reverse transcriptase
+D
+Which of the following species is paramagnetic?
+A. O2
+B. N2
+C. F2
+D. CO
+A
+The Gibbs free energy at equilibrium is?
+A. Maximum
+B. Minimum
+C. Zero
+D. Equal to enthalpy
+C
+A neurons resting membrane potential is mainly due to?
+A. Na+ influx
+B. K+ efflux through leak channels
+C. Ca2+ channels
+D. Na+/K+ pump only
+B
+A first-order reaction has a half-life that?
+A. Doubles when concentration doubles
+B. Decreases with concentration
+C. Remains constant
+D. Depends on temperature only
+C
+The magnetic field inside a long solenoid is given by?
+A. μI/2r
+B. μnI
+C. μI/4πr2
+D. μI/r2
+B
+Removing CO2 from blood shifts the oxygen dissociation curve?
+A. Left
+B. Right
+C. Does not shift
+D. Downward only
+A
+Which of the following species has a trigonal bipyramidal geometry?
+A. PF5
+B. BF3
+C. NH3
+D. SF6
+A
+The depletion region in a PN junction contains?
+A. Free electrons only
+B. Free holes only
+C. Immobile ions (fixed charges)
+D. Both electrons and holes
+C
+Which process produces the highest ATP yield?
+A. Substrate-level phosphorylation
+B. Oxidative phosphorylation
+C. Glycolysis
+D. Fermentation
+B
+The order of increasing acid strength in aqueous solution?
+A. HF < HCl < HBr < HI
+B. HI < HBr < HCl < HF
+C. HCl < HF < HBr < HI
+D. HF < HBr < HI < HCl
+A
+In quantum mechanics, the Heisenberg uncertainty principle applies to?
+A. Energy and pressure
+B. Position and velocity
+C. Position and momentum
+D. Mass and charge
+C
+The major product of B-oxidation of fatty acids is?
+A. Glucose
+B. Acetyl-CoA
+C. NADPH
+D. Lactate
+B
+The effective nuclear charge (Z_eff) across a period?
+A. Decreases
+B. Increases
+C. Remains constant
+D. First increases then decreases
+B
+Which law directly relates electric field to charge density?
+A. Faraday’s Law
+B. Ampere’s Law
+C. Gauss’s Law
+D. Coulomb’s Law
+C
+The alpha helix of proteins is stabilized by hydrogen bonds formed between:
+A. Adjacent side chains
+B. Carbonyl O of residue n and NH of residue n+4
+C. N-terminus and C-terminus
+D. Peptide bond and water
+B
+A buffer made from a weak acid and its salt works best when:
+A. pH = pKa
+B. pH > pKa by 3 units
+C. pH < pKa by 4 units
+D. pH = 1
+A
+Which amino acid can form disulfide bonds in protein tertiary structure?
+A. Methionine
+B. Cysteine
+C. Tyrosine
+D. Lysine
+B
+A reaction with deltaH < 0 and deltaS < 0 is spontaneous at:
+A. All temperatures
+B. High temperatures only
+C. Low temperatures only
+D. Never
+C
+Which organelle contains its own circular DNA and 70S ribosomes?
+A. Golgi apparatus
+B. Peroxisome
+C. Mitochondrion
+D. Lysosome
+C
+The work function of a metal is 2.5 eV. A photon of wavelength 300 nm strikes it. What happens?
+A. No electrons emitted
+B. Electrons emitted with low KE
+C. Electrons emitted with high KE
+D. Surface melts
+B
+The strongest intermolecular forces exist in:
+A. CO2
+B. CH4
+C. H2O
+D. N2
+C
+The main driving force of protein folding is:
+A. Hydrogen bonding
+B. Hydrophobic interactions
+C. Peptide bond formation
+D. Van der Waals forces
+B
+7. The conjugate base of HSO4 is:
+A. SO4
+B. H2SO4
+C. HSO3
+D. OH
+A
+In an RLC circuit at resonance, the impedance is:
+A. Maximum
+B. Minimum
+C. Zero
+D. Infinity
+B
+Which of the following is a non-reducing disaccharide?
+A. Maltose
+B. Lactose
+C. Cellobiose
+D. Sucrose
+D
+The Michaelis Menten constant (Km) represents:
+A. Maximum reaction rate
+B. Substrate concentration at 1/2 Vmax
+C. Enzyme turnover number
+D. Equilibrium constant
+B
+The shape of xenon tetrafluoride (XeF4) is:
+A. Tetrahedral
+B. Square planar
+C. Seesaw
+D. Square pyramidal
+B
+A capacitor stores energy in the form of:
+A. Kinetic energy
+B. Magnetic energy
+C. Electric field energy
+D. Heat
+C
+During oxidative phosphorylation, electrons flow from NADH to O2 because:
+A. O2 has the lowest electronegativity
+B. Electron affinity increases along ETC
+C. NADH is a strong oxidizing agent
+D. ATP synthase creates a gradient
+B
+Which type of radiation has the greatest penetrating power?
+A. Alpha particles
+B. Beta particles
+C. Gamma rays
+D. Neutrons
+C
+The order of reactivity of alkyl halides in SN2 reactions is:
+A. Tertiary > Secondary > Primary
+B. Primary > Secondary > Tertiary
+C. Secondary > Primary > Tertiary
+D. Tertiary > Primary > Secondary
+B
+The Nernst equation relates cell potential to:
+A. Temperature
+B. Concentration
+C. Pressure
+D. Both A and B
+D
+A charged particle moving perpendicular to a magnetic field experiences a force because:
+A. Magnetic field does work
+B. Particle spins
+C. Magnetic force changes velocity direction
+D. It becomes neutral
+C
+Which of these is an example of post-translational modification?
+A. DNA methylation
+B. RNA splicing
+C. Phosphorylation
+D. Transcription initiation
+C
+For a spontaneous redox reaction, the cell EMF (E cell) must be:
+A. Positive
+B. Negative
+C. Zero
+D. Equal to K
+A
+The Hardy Weinberg equilibrium assumes:
+A. Mutation occurs
+B. Random mating
+C. Natural selection
+D. Migration
+B
+The rate determining step in an SN1 reaction is:
+A. Nucleophile attack
+B. Carbocation formation
+C. Leaving group elimination
+D. Solvent solute interaction
+B
+The De Broglie wavelength of a particle is inversely proportional to:
+A. Mass
+B. Velocity
+C. Momentum
+D. Both A and B
+D
+A non-spontaneous electrochemical reaction is driven by:
+A. Oxidation
+B. Reduction
+C. External electrical energy
+D. Pressure
+C
+The quaternary structure of a protein refers to:
+A. 3D folding of a single chain
+B. Sequence of amino acids
+C. Assembly of multiple polypeptide subunits
+D. Helices and sheets inside backbone
+C
+Electrophoresis separates molecules based on:
+A. Mass only
+B. Charge only
+C. Mass-to-charge ratio
+D. Solubility
+C
